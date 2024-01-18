@@ -17,3 +17,5 @@ Big data comes in various formats and types. It includes structured data (like d
 
 Veracity:
 Veracity relates to the quality and reliability of the data. It emphasizes the need to ensure that data is accurate, trustworthy, and meaningful for analysis.
+
+---
