@@ -1,0 +1,19 @@
+Big Data:
+
+when the internet became more interactive (Web 2.0), a lot more data started coming in. This data was coming in faster and in different shapes and sizes—like organized tables, messy text, and even images.
+Handling this massive and complex data using the traditional methods became really tough. The traditional methods involved using databases and tables to neatly organize data, but now, with so much information coming from everywhere, it was like trying to catch a waterfall with a bucket.
+So, they came up with the term "big data." It's just a way of saying we have this gigantic and complicated pile of information—some neatly arranged, some a bit messy, and some all over the place. Think of it like dealing with a super busy and overflowing information river.
+
+4v's of Big Data:
+
+Volume:
+Big data involves a huge amount of data. It's not just about dealing with a few gigabytes or terabytes but handling data on the order of petabytes or exabytes. 
+
+Velocity:
+Data is generated at a high speed and needs to be processed quickly. With the growth of the internet, social media, sensors, and other sources, data is continuously generated in real-time.
+
+Variety:
+Big data comes in various formats and types. It includes structured data (like databases), unstructured data (such as text and images), and semi-structured data (like JSON or XML). 
+
+Veracity:
+Veracity relates to the quality and reliability of the data. It emphasizes the need to ensure that data is accurate, trustworthy, and meaningful for analysis.
